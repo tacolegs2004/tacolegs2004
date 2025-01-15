@@ -1,5 +1,5 @@
 - 👋 Howdy! I’m @tacolegs2004 :3
-- I like Typescript and terminals.
+- 🌮 I like Typescript and terminals.
 - 🌱 I’m currently learning Javascript and preparing to study Computer Science!
 
 <!---
