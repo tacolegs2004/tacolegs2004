@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tacolegs2004
-- 👀 I’m interested in music and programming
-- 🌱 I’m currently learning Javascript
+- 👋 Howdy! I’m @tacolegs2004 :3
+- I like Typescript and terminals.
+- 🌱 I’m currently learning Javascript and preparing to study Computer Science!
 
 <!---
 tacolegs2004/tacolegs2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
